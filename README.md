@@ -38,3 +38,5 @@ When you're reviewing hundreds of AI-generated outputs a week, "looks about righ
 ## Skills
 
 Rubric Design · SOP Writing · Deterministic Evaluation Criteria · Reviewer Calibration · Multi-Domain QA
+\## See it in action
+For concrete rubric examples following this approach → [Rubric-Examples](https://github.com/srinehapalla1618-png/Evaluation-Rubric-Samples)
